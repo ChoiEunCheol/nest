@@ -1,3 +1,5 @@
+// Mocking 이란 API호출 테스트
+
 import { getUser } from './apiCaller';
 
 // fetch 함수를 모의 함수로 대체
